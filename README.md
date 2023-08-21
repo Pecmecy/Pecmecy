@@ -8,7 +8,7 @@ I mainly use C++ but I'm also able to work on C and SQL. Right now I am focusing
 You can check my progress on the [Projects](https://github.com/Pecmecy/Projects) repository.
 
 
-You can also check the latest Web Development project I work on directly [here](https://pecmecy.github.io). 
+You can also check the latest Web Development project I've worked on directly [here](https://pecmecy.github.io). 
 
 ### Computer Science is fun (kinda)
 
