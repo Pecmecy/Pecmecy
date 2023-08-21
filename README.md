@@ -8,10 +8,12 @@ I mainly use C++ but I'm also able to work on C and SQL. Right now I am focusing
 You can check my progress on the [Projects](https://github.com/Pecmecy/Projects) repository.
 
 
+You can also check the latest Web Development project I work on directly [here](https://pecmecy.github.io). 
+
 ### Computer Science is fun (kinda)
 
-Being a Computer Scince student requires a lot of work. That's why I decided to organize and save up the work I do throughout the degree.
+Being a Computer Scince student requires a lot of work. That's why I decided to organize and save up everything I do throughout the degree.
 
-Here is a list of the repositories focused on my university work:
+Here is a list of the repositories focused on my university tasks and projects:
   * [Data Structures and Algorithms](https://github.com/Pecmecy/FIB-EDA)
   * WIP 🚧
