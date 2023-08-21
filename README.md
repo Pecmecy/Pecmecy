@@ -1,5 +1,5 @@
-# Hi there, I'm Pecmecy! 👋
-### Software Developer in the making
+<h1 align="center"> Hi there, I'm Pecmecy! 👋 </h1>
+<h3> Software Developer in the making </h3>
 
 
 I'm a third year Computer Science student at [Universitat Politècnica de Catalunya (UPC-FIB)](https://www.fib.upc.edu/en) in Barcelona, Spain.
