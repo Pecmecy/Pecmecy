@@ -9,8 +9,9 @@ You can check my progress on the [Projects](https://github.com/Pecmecy/Projects)
 
 
 You can also check the latest Web Development project I've worked on directly [here](https://pecmecy.github.io). 
-
-### Computer Science is fun (kinda)
+<br>
+<hr>
+<h3> Computer Science is fun (sometimes) </h3>
 
 Being a Computer Science student requires a lot of work. That's why I decided to organize and save up everything I do throughout the degree.
 
