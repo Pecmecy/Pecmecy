@@ -12,7 +12,7 @@ You can also check the latest Web Development project I've worked on directly [h
 
 ### Computer Science is fun (kinda)
 
-Being a Computer Scince student requires a lot of work. That's why I decided to organize and save up everything I do throughout the degree.
+Being a Computer Science student requires a lot of work. That's why I decided to organize and save up everything I do throughout the degree.
 
 Here is a list of the repositories focused on my university tasks and projects:
   * [Estructuras de Datos y Algoritmos](https://github.com/Pecmecy/FIB-EDA)
